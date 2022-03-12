@@ -1,1 +1,1 @@
-A repsitory based on thr C programming Language
+A repository based on the C programming Language
